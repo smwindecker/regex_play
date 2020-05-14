@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+fix_coords.R
+play.R
